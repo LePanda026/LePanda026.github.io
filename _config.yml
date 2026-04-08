@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/LePanda026/LePanda026.github.io/blob/master/JunShuo_Zhang.jpg"
+  avatar           : "./JunShuo_Zhang.jpg"
   name             : "JunShuo Zhang"
   pronouns         : # example: "she/her"  
   bio              : "LLM/VLM-based Agent, Reinforcement Learning"
