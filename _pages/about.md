@@ -87,19 +87,6 @@ During my undergraduate studies, I participated in research on embodied intellig
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">ACL 2026</div>
-      <img src="/images/DPEPO.png" alt="DPEPO" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p><strong>DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents</strong></p>
-    <p>A novel agent exploration paradigm enabling simultaneous multi-environment exploration with a diversity-driven reward mechanism, achieving SOTA on ALF-World and ScienceWorld.</p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
       <div class="badge">In Progress</div>
       <img src="/images/HTTA.png" alt="HTAA" width="100%">
     </div>
