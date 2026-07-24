@@ -21,6 +21,15 @@ During my undergraduate studies, I participated in research on embodied intellig
 ## 📝 Publications
 
 <style>
+/* Force correct layout to override cached CSS */
+@media (min-width: 57.8125em) {
+  .page {
+    width: 83.33333% !important;
+    padding-left: 4.16667% !important;
+    padding-right: 16.66667% !important;
+    float: right !important;
+  }
+}
 .paper-box {
   display: flex;
   justify-content: flex-start;
