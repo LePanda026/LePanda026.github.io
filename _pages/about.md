@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Master's student in Computer Science at the University of Electronic Science and Technology of China (UESTC), where I am a member of the Spatiotemporal Big Data and Intelligence Team, supervised by Prof. Shen Gao. My research interests include **LLM-based Agents**, **Reinforcement Learning**, and **Information Retrieval**. 
+Hi! I am a Master's student in Computer Science at the University of Electronic Science and Technology of China (UESTC), where I am a member of the Spatiotemporal Big Data and Intelligence Team, supervised by Prof. Shen Gao. My research interests include **LLM-based Agents**, **Reinforcement Learning**, and **Multimodal Large Language Models (MLLMs)**. 
 
 During my undergraduate studies, I participated in research on embodied intelligence technology for humanoid robots, led by Changjiang Scholar Prof. Jiafu Tang, supervised by Prof. Ming Gao.
 
@@ -17,6 +17,16 @@ During my undergraduate studies, I participated in research on embodied intellig
 - **[2026.03]** 🎉 Our paper *DPEPO* was accepted to **ACL 2026**!
 - **[2026.02]** 🎮 Achieved C6 Columbia in Genshin Impact — My second C6 character after Furina.
 - **[2026.01]** 🏆 Achieved Rank 1 on the BFCL benchmark among 7B-scale models.
+
+## 🧑🏻‍💻 Internship Experiences
+
+- **Algorithm Intern**, DiDi Map Research (Beijing), 2025.12 – 2026.07
+
+## 🏆 Honors & Awards
+
+- **Academic Scholarship**, 2025
+- **Model Student Scholarship**, 2024
+- **The First Prize Scholarship**, 2023
 
 ## 📝 Publications
 
@@ -83,7 +93,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   </div>
   <div class="paper-box-text">
     <p><strong>DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents</strong></p>
-    <p><strong>Junshuo Zhang</strong>, Chengrui Huang, Feng Guo, Zihan Li, Ke Shi, Jiguo Yu, Shuo Shang, Shen Gao</p>
     <p>A novel agent exploration paradigm enabling simultaneous multi-environment exploration with a diversity-driven reward mechanism, achieving SOTA on ALF-World and ScienceWorld.</p>
   </div>
 </div>
@@ -97,7 +106,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   </div>
   <div class="paper-box-text">
     <p><strong>HTAA: Enhancing LLM Planning via Hybrid Toolset Agentization & Adaptation</strong></p>
-    <p>Chengrui Huang, <strong>Junshuo Zhang</strong>, Zhiyuan Ma, Xikun Wang, Ximeng Wang, Menghua Jiang, Gang Zeng, Zhaobin Han, Shen Gao, Shuo Shang</p>
     <p>A hierarchical framework that encapsulates co-used tools into specialized agent tools with Asymmetric Planner Adaptation, achieving SOTA on real-world POI tasks while reducing trajectory length and context overhead.</p>
   </div>
 </div>
@@ -111,7 +119,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   </div>
   <div class="paper-box-text">
     <p><strong>LADT: Hierarchical Tree-Guided Grounding for GUI Localization via Ancestor-Descendant Traversal</strong></p>
-    <p><strong>Junshuo Zhang</strong>, Ke Shi, Jinyuan Zhang, Chengrui Huang, Zhaobing Han, Gang Zeng, Menghua Jiang, Ximeng Wang, Meng Wang, Shuo Shang, Shen Gao</p>
     <p>A novel paradigm for GUI element localization via iterative DOM tree traversal with a Subsumption-Aware Hierarchical Reward, achieving SOTA on three Web/GUI benchmarks with strong cross-platform generalization.</p>
   </div>
 </div>
@@ -125,7 +132,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   </div>
   <div class="paper-box-text">
     <p><strong>Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion</strong></p>
-    <p>Feng Guo, Yuntao Wen, Shen Gao, <strong>Junshuo Zhang</strong>, Shuo Shang</p>
     <p>Proposes KUnBR, a machine unlearning framework using Knowledge Density Estimation and Block Re-insertion to thoroughly remove harmful knowledge from LLMs, achieving SOTA on unlearning benchmarks.</p>
   </div>
 </div>
@@ -139,7 +145,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   </div>
   <div class="paper-box-text">
     <p><strong>Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs</strong></p>
-    <p>Feng Guo, Yuntao Wen, Shen Gao, <strong>Junshuo Zhang</strong>, Shuo Shang</p>
     <p>A sharpness-aware robust erasure approach to thoroughly remove hallucinations in multimodal LLMs, going beyond superficial unlearning for more persistent erasure.</p>
   </div>
 </div>
@@ -153,7 +158,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   </div>
   <div class="paper-box-text">
     <p><strong>FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation</strong></p>
-    <p>Ke Shi, Yao Zhang, Feng Guo, Jinyuan Zhang, <strong>Junshuo Zhang</strong>, Shen Gao, Shuo Shang</p>
     <p>A flow-based average velocity establishment approach for improving sequential recommendation systems.</p>
   </div>
 </div>
@@ -167,13 +171,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   </div>
   <div class="paper-box-text">
     <p><strong>LLMs are also effective embedding models: An in-depth overview</strong></p>
-    <p>Chongyang Tao, Tao Shen, Shen Gao, <strong>Junshuo Zhang</strong>, Zhen Li, Kai Hua, Wenpeng Hu, Zhengwei Tao, Shuai Ma</p>
     <p>A comprehensive survey on LLM-based embedding methods, systematizing the paradigm shift from specialized encoders to general-purpose LLMs across multilingual, long-context, and cross-modal domains.</p>
   </div>
 </div>
-
-## 🏆 Honors & Awards
-
-- **Academic Scholarship**, 2025
-- **Model Student Scholarship**, 2024
-- **The First Prize Scholarship**, 2023
