@@ -21,12 +21,12 @@ During my undergraduate studies, I participated in research on embodied intellig
 ## 📝 Publications
 
 <style>
-/* Force correct layout to override cached CSS */
+/* Expand content width while keeping sidebar fixed */
 @media (min-width: 57.8125em) {
   .page {
-    width: 83.33333% !important;
+    width: 95.83333% !important;
     padding-left: 4.16667% !important;
-    padding-right: 16.66667% !important;
+    padding-right: 0% !important;
     float: right !important;
   }
 }
