@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "JunShuo Zhang"
+title: "Junshuo Zhang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am a Master's student in Computer Science at the University of Electronic Science and Technology of China (UESTC), where I am a member of the Spatiotemporal Big Data and Intelligence Team, supervised by Prof. Shen Gao. My research interests include **LLM-based Agents**, **Reinforcement Learning**, and **Information Retrieval**. 
 
-During my undergraduate studies, I participated in research on embodied intelligence technology for humanoid robots, led by Changjiang Scholar Prof. Jiafu Tang.
+During my undergraduate studies, I participated in research on embodied intelligence technology for humanoid robots, led by Changjiang Scholar Prof. Jiafu Tang, supervised by Prof. Ming Gao.
 
 ## 📣 News
 
@@ -66,7 +66,7 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents</strong></p>
     <p><strong>Junshuo Zhang</strong>, Chengrui Huang, Feng Guo, Zihan Li, Ke Shi, Jiguo Yu, Shuo Shang, Shen Gao</p>
-    <p>[<a href="/publications/2026-01-01-dpepo">page</a>]</p>
+    <p>[<a href="https://aclanthology.org/2026.acl-long.2151/">paper</a>] [<a href="/publications/2026-01-01-dpepo">page</a>]</p>
   </div>
 </div>
 
@@ -87,6 +87,20 @@ During my undergraduate studies, I participated in research on embodied intellig
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge">arXiv 2026</div>
+      <img src="/images/Unlearn.png" alt="Beyond Superficial Unlearning" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs</strong></p>
+    <p>Feng Guo, Yuntao Wen, Shen Gao, <strong>Junshuo Zhang</strong>, Shuo Shang</p>
+    <p>[<a href="https://arxiv.org/abs/2601.16527">arXiv</a>] [<a href="/publications/2026-01-17-beyond-superficial-unlearning">page</a>]</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge">SIGIR 2026</div>
       <img src="/images/FAVE.png" alt="FAVE" width="100%">
     </div>
@@ -94,7 +108,7 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation</strong></p>
     <p>Ke Shi, Yao Zhang, Feng Guo, Jinyuan Zhang, <strong>Junshuo Zhang</strong>, Shen Gao, Shuo Shang</p>
-    <p>[<a href="/publications/2026-04-08-fave">page</a>]</p>
+    <p>[<a href="https://arxiv.org/abs/2604.04427">arXiv</a>] [<a href="/publications/2026-04-08-fave">page</a>]</p>
   </div>
 </div>
 
@@ -122,8 +136,12 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>HTAA: Enhancing LLM Planning via Hybrid Toolset Agentization & Adaptation</strong></p>
     <p>Chengrui Huang, <strong>Junshuo Zhang</strong>, Zhiyuan Ma, Xikun Wang, Ximeng Wang, Menghua Jiang, Gang Zeng, Zhaobin Han, Shen Gao, Shuo Shang</p>
-    <p>[<a href="/publications/2026-04-20-htaa">page</a>]</p>
+    <p>[<a href="https://arxiv.org/abs/2604.10917">arXiv</a>] [<a href="/publications/2026-04-20-htaa">page</a>]</p>
   </div>
 </div>
 
-**Full list of publications can be found [here](/publications/).**
+## 🏆 Honors & Awards
+
+- **Academic Scholarship**, 2025
+- **Model Student Scholarship**, 2024
+- **The First Prize Scholarship**, 2023
