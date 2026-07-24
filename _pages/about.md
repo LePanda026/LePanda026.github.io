@@ -35,6 +35,14 @@ During my undergraduate studies, I participated in research on embodied intellig
   justify-content: flex-start;
   align-items: flex-start;
   margin: 1.5em 0;
+  padding: 1em;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.3s ease;
+}
+.paper-box:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 .paper-box-image {
   flex: 0 0 25%;
@@ -76,7 +84,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents</strong></p>
     <p><strong>Junshuo Zhang</strong>, Chengrui Huang, Feng Guo, Zihan Li, Ke Shi, Jiguo Yu, Shuo Shang, Shen Gao</p>
-    <p>[<a href="https://aclanthology.org/2026.acl-long.2151/">paper</a>]</p>
     <p>A novel agent exploration paradigm enabling simultaneous multi-environment exploration with a diversity-driven reward mechanism, achieving SOTA on ALF-World and ScienceWorld.</p>
   </div>
 </div>
@@ -91,7 +98,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>HTAA: Enhancing LLM Planning via Hybrid Toolset Agentization & Adaptation</strong></p>
     <p>Chengrui Huang, <strong>Junshuo Zhang</strong>, Zhiyuan Ma, Xikun Wang, Ximeng Wang, Menghua Jiang, Gang Zeng, Zhaobin Han, Shen Gao, Shuo Shang</p>
-    <p>[<a href="https://arxiv.org/abs/2604.10917">arXiv</a>]</p>
     <p>A hierarchical framework that encapsulates co-used tools into specialized agent tools with Asymmetric Planner Adaptation, achieving SOTA on real-world POI tasks while reducing trajectory length and context overhead.</p>
   </div>
 </div>
@@ -134,7 +140,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs</strong></p>
     <p>Feng Guo, Yuntao Wen, Shen Gao, <strong>Junshuo Zhang</strong>, Shuo Shang</p>
-    <p>[<a href="https://arxiv.org/abs/2601.16527">arXiv</a>]</p>
     <p>A sharpness-aware robust erasure approach to thoroughly remove hallucinations in multimodal LLMs, going beyond superficial unlearning for more persistent erasure.</p>
   </div>
 </div>
@@ -149,7 +154,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation</strong></p>
     <p>Ke Shi, Yao Zhang, Feng Guo, Jinyuan Zhang, <strong>Junshuo Zhang</strong>, Shen Gao, Shuo Shang</p>
-    <p>[<a href="https://arxiv.org/abs/2604.04427">arXiv</a>]</p>
     <p>A flow-based average velocity establishment approach for improving sequential recommendation systems.</p>
   </div>
 </div>
@@ -164,7 +168,6 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>LLMs are also effective embedding models: An in-depth overview</strong></p>
     <p>Chongyang Tao, Tao Shen, Shen Gao, <strong>Junshuo Zhang</strong>, Zhen Li, Kai Hua, Wenpeng Hu, Zhengwei Tao, Shuai Ma</p>
-    <p>[<a href="https://arxiv.org/abs/2412.12591">arXiv</a>]</p>
     <p>A comprehensive survey on LLM-based embedding methods, systematizing the paradigm shift from specialized encoders to general-purpose LLMs across multilingual, long-context, and cross-modal domains.</p>
   </div>
 </div>
