@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "JunShuo Zhang"
 title_separator          : "-"
 name                     : &name "JunShuo Zhang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "JunShuo Zhang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lepanda026.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "LePanda026/LePanda026.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,16 +26,16 @@ author:
   avatar           : "JunShuo_Zhang.png"
   name             : "JunShuo Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "LLM/VLM-based Agent, Reinforcement Learning"
-  location         : "Beijing"
+  bio              : "Master Student at UESTC. Research on LLM-based Agents, Information Retrieval, and MLLMs."
+  location         : "Chengdu"
   employer         : "UESTC"
   email            : "hanblingz026@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=XBaMpqcAAAAJ&hl=zh-CN"
-  github           : "academicpages"  
+  googlescholar    : "https://scholar.google.com/citations?user=XBaMpqcAAAAJ&hl=en"
+  github           : "LePanda026"  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
