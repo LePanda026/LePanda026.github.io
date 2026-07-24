@@ -38,14 +38,8 @@ author:
   github           : "LePanda026"
   cv               : "https://drive.google.com/file/d/1ad2MFMHng-LYBbGZ7Izug75N2qKXNR2U/view"
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# Publication Category - disabled, no category filtering
+# publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
