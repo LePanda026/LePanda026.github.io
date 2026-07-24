@@ -16,6 +16,7 @@ During my undergraduate studies, I participated in research on embodied intellig
 - **[2026.05]** 🎮 Reached peak 2000 points and Legendary King tier in Honor of Kings S43.
 - **[2026.03]** 🎉 Our paper *DPEPO* was accepted to **ACL 2026**!
 - **[2026.02]** 🎮 Achieved C6 Columbia in Genshin Impact — My second C6 character after Furina.
+- **[2026.01]** 🏆 Achieved Rank 1 on the BFCL benchmark among 7B-scale models.
 
 ## 📝 Publications
 
@@ -67,10 +68,7 @@ During my undergraduate studies, I participated in research on embodied intellig
     <p><strong>DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents</strong></p>
     <p><strong>Junshuo Zhang</strong>, Chengrui Huang, Feng Guo, Zihan Li, Ke Shi, Jiguo Yu, Shuo Shang, Shen Gao</p>
     <p>[<a href="https://aclanthology.org/2026.acl-long.2151/">paper</a>]</p>
-    <ul>
-      <li>Proposes DPEPO, a novel agent exploration paradigm that enables simultaneous exploration of multiple environments for information acquisition and action execution, coupled with a diversity-driven reward mechanism to encourage efficient and diverse exploration during RL training.</li>
-      <li>Achieves state-of-the-art (SOTA) results on ALF-World and ScienceWorld, with demonstrated strong robustness and generalization on out-of-domain tasks.</li>
-    </ul>
+    <p>A novel agent exploration paradigm enabling simultaneous multi-environment exploration with a diversity-driven reward mechanism, achieving SOTA on ALF-World and ScienceWorld.</p>
   </div>
 </div>
 
@@ -85,11 +83,7 @@ During my undergraduate studies, I participated in research on embodied intellig
     <p><strong>HTAA: Enhancing LLM Planning via Hybrid Toolset Agentization & Adaptation</strong></p>
     <p>Chengrui Huang, <strong>Junshuo Zhang</strong>, Zhiyuan Ma, Xikun Wang, Ximeng Wang, Menghua Jiang, Gang Zeng, Zhaobin Han, Shen Gao, Shuo Shang</p>
     <p>[<a href="https://arxiv.org/abs/2604.10917">arXiv</a>]</p>
-    <ul>
-      <li>Proposes HTAA, a hierarchical framework that encapsulates frequently co-used tools into specialized agent tools, thereby reducing the planner's action space and mitigating redundancy.</li>
-      <li>Introduces Asymmetric Planner Adaptation, aligning the planner with agent tools via trajectory-based backward reconstruction and forward refinement.</li>
-      <li>Achieves SOTA performance on real-world POI validation tasks and standard benchmarks, significantly reducing length of trajectories and context overhead compared to strong baselines.</li>
-    </ul>
+    <p>A hierarchical framework that encapsulates co-used tools into specialized agent tools with Asymmetric Planner Adaptation, achieving SOTA on real-world POI tasks while reducing trajectory length and context overhead.</p>
   </div>
 </div>
 
@@ -103,10 +97,7 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>LADT: Hierarchical Tree-Guided Grounding for GUI Localization via Ancestor-Descendant Traversal</strong></p>
     <p><strong>Junshuo Zhang</strong>, Ke Shi, Jinyuan Zhang, Chengrui Huang, Zhaobing Han, Gang Zeng, Menghua Jiang, Ximeng Wang, Meng Wang, Shuo Shang, Shen Gao</p>
-    <ul>
-      <li>Proposes LADT, a novel paradigm that localizes GUI elements via iterative ancestor-to-descendant traversal of the DOM tree to enable coarse-to-fine grounding, and designs a Subsumption-Aware Hierarchical Reward that combines sparse inbox rewards with dense structural penalties to enforce coherent localization paths and correct containment relationships.</li>
-      <li>Achieves SOTA performance on three Web/GUI benchmarks with strong cross-platform generalization.</li>
-    </ul>
+    <p>A novel paradigm for GUI element localization via iterative DOM tree traversal with a Subsumption-Aware Hierarchical Reward, achieving SOTA on three Web/GUI benchmarks with strong cross-platform generalization.</p>
   </div>
 </div>
 
@@ -120,11 +111,22 @@ During my undergraduate studies, I participated in research on embodied intellig
   <div class="paper-box-text">
     <p><strong>Beyond Superficial Forgetting: Thorough Unlearning Through Knowledge Density Estimation and Block Re-Insertion</strong></p>
     <p>Feng Guo, Yuntao Wen, Shen Gao, <strong>Junshuo Zhang</strong>, Shuo Shang</p>
-    <ul>
-      <li>Proposes KUnBR, a novel machine unlearning framework designed to thoroughly remove harmful knowledge from LLMs.</li>
-      <li>Leverages Knowledge Density Estimation to pinpoint the layers richest in harmful knowledge, and a Block Re-insertion strategy for thorough unlearning.</li>
-      <li>Achieves state-of-the-art performance on unlearning benchmarks, robustly resisting knowledge recovery while preserving model general utility.</li>
-    </ul>
+    <p>Proposes KUnBR, a machine unlearning framework using Knowledge Density Estimation and Block Re-insertion to thoroughly remove harmful knowledge from LLMs, achieving SOTA on unlearning benchmarks.</p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src="/images/Unlearn.png" alt="Beyond Superficial Unlearning" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs</strong></p>
+    <p>Feng Guo, Yuntao Wen, Shen Gao, <strong>Junshuo Zhang</strong>, Shuo Shang</p>
+    <p>[<a href="https://arxiv.org/abs/2601.16527">arXiv</a>]</p>
+    <p>A sharpness-aware robust erasure approach to thoroughly remove hallucinations in multimodal LLMs, going beyond superficial unlearning for more persistent erasure.</p>
   </div>
 </div>
 
@@ -139,9 +141,7 @@ During my undergraduate studies, I participated in research on embodied intellig
     <p><strong>FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation</strong></p>
     <p>Ke Shi, Yao Zhang, Feng Guo, Jinyuan Zhang, <strong>Junshuo Zhang</strong>, Shen Gao, Shuo Shang</p>
     <p>[<a href="https://arxiv.org/abs/2604.04427">arXiv</a>]</p>
-    <ul>
-      <li>Proposes FAVE, a flow-based average velocity establishment approach aimed at improving sequential recommendation systems.</li>
-    </ul>
+    <p>A flow-based average velocity establishment approach for improving sequential recommendation systems.</p>
   </div>
 </div>
 
@@ -156,11 +156,7 @@ During my undergraduate studies, I participated in research on embodied intellig
     <p><strong>LLMs are also effective embedding models: An in-depth overview</strong></p>
     <p>Chongyang Tao, Tao Shen, Shen Gao, <strong>Junshuo Zhang</strong>, Zhen Li, Kai Hua, Wenpeng Hu, Zhengwei Tao, Shuai Ma</p>
     <p>[<a href="https://arxiv.org/abs/2412.12591">arXiv</a>]</p>
-    <ul>
-      <li>Conducted a comprehensive survey spanning from established text embedding methods to advanced embedding techniques in multilingual, long-context, and cross-modal domains.</li>
-      <li>Systematizes the paradigm shift from specialized encoders like BERT to general-purpose LLMs for generating high-quality text embeddings.</li>
-      <li>Systematically summarizes and categorizes two core methodologies: direct prompting for tuning-free embeddings and data-centric fine-tuning to optimize model with diverse objectives and datasets.</li>
-    </ul>
+    <p>A comprehensive survey on LLM-based embedding methods, systematizing the paradigm shift from specialized encoders to general-purpose LLMs across multilingual, long-context, and cross-modal domains.</p>
   </div>
 </div>
 
