@@ -126,19 +126,6 @@ During my undergraduate studies, I participated in research on embodied intellig
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">arXiv 2026</div>
-      <img src="/images/Unlearn.png" alt="Beyond Superficial Unlearning" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p><strong>Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs</strong></p>
-    <p>A sharpness-aware robust erasure approach to thoroughly remove hallucinations in multimodal LLMs, going beyond superficial unlearning for more persistent erasure.</p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
       <div class="badge">SIGIR 2026</div>
       <img src="/images/FAVE.png" alt="FAVE" width="100%">
     </div>
